@@ -1,5 +1,4 @@
 pasta
 butter
 cream
-salt
-pepper
+garlic
