@@ -1,0 +1,10 @@
+   89  git diff ingredients.txt
+   90  git add .
+   91  git status
+   92  git diff
+   93  git restore --staged ingredients.txt
+   94  git diff
+   95  git commit -m 'sauce almost complete'
+   96  ls
+   97  ls -la
+   98  history |tail
